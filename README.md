@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is my Github repository for the Coursera Capstone course.
+This is my Github repository for the Professional Certificate in Data Science: IBM Capstone course hosted on Coursera. It was complted in the spring of 2019 as a part of a 9-course series on data science. The upload to GitHub was a requirement for marking of this course and otherwise has no functions. I may improve and share the repository in future with more functional purposes that would be of use to a larger audience.
